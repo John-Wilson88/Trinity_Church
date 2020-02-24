@@ -1,0 +1,191 @@
+/*body {
+	font-family: 'Source Sans Pro', sans-serif;	
+}
+*/
+.p-content {
+	text-align: left;
+	font-size: 16pt;
+}
+
+/*Cover Img*/
+.coverContainer {
+	text-align: center;
+	height: 350px;
+	background-color: rgb(164, 32, 55);
+}
+
+.coverPhoto {
+	position: relative;
+	top: 70px;
+}
+
+/*Content Classes*/
+.contentHeading {
+	font-family: 'Source Serif Pro', serif;
+	position: relative;
+	left: 8.5%;
+
+}
+
+.contentContainer {
+	font-family: 'Source Sans Pro', sans-serif;
+	margin-top: 8%;
+	margin-bottom: 8%;
+}
+
+/*Contact Card*/
+.contactList li {
+	list-style: none;
+
+}
+
+.contactList {
+	text-align: center;
+	padding-left: 0px;
+}
+
+.socialIcons {
+	font-size: 25pt;
+}
+
+.card-title {
+	text-align: center;
+}
+
+.contactCard {
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+.contactContainer {
+	font-family: 'Source Sans Pro', sans-serif;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+.womenPhoto {
+	height: 336px;
+	width: 448px;
+	margin-right:5px;
+
+}
+
+/*Email Form*/
+
+.emailBtn {
+	margin-top: 10px;
+}
+
+/*Footer*/
+.footerDiv {
+	text-align: center;
+	margin-top: 2%;
+	background-color: rgb(144,17,40);
+	height: 250px;
+	color: rgb(255, 255, 255);
+}
+
+.footerList {
+	padding: 10px;
+	list-style: none;
+	position: relative;
+	top: 100px;
+}
+
+.footerList li {
+	display: inline;
+}
+
+/*Nav*/
+.navBar {
+	background-color: rgb(255,255,255);
+}
+
+.nav-link {
+	font-size: 15pt;
+}
+/* unvisited link */
+.nav-link:link {
+  color: rgb(0,0,0);
+}
+
+/* visited link */
+.nav-link:visited {
+  color: rgb(0,0,0);
+}
+
+/* mouse over link */
+.nav-link:hover {
+  color: rgb(0,0,0);
+}
+
+/* selected link */
+.nav-link:active {
+  color: rgb(0,0,0);
+}
+
+Contact card Links
+.social-link {
+	font-size: 15pt;
+}
+/* unvisited link */
+.social-link:link {
+  color: rgb(0,0,0);
+}
+
+/* visited link */
+.social-link:visited {
+  color: rgb(0,0,0);
+}
+
+/* mouse over link */
+.social-link:hover {
+  color: rgb(132, 33, 44);
+}
+
+/* selected link */
+.social-link:active {
+  color: rgb(0,0,0);
+}
+
+
+.familyPhoto {
+	height: 400px;
+	width: 400px;
+	margin-left: 15px;
+	margin-bottom: 10px;
+}
+
+.coreGroupPhoto {
+	height: 432px;
+	width: 480px;
+	margin-top: 15px;
+}
+
+.wulffPhoto {
+	height: 225px;
+	width: 375px;
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+
+.mealPhoto {
+	height: 225px;
+	width: 375px;
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+
+form {
+	margin-right: 20px;
+}
+
+.floating-box {
+	float: left;
+	position: sticky;
+	top: 100px;
+	left: 5px;
+}
+
+
+
