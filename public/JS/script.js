@@ -1,10 +1,5 @@
 firebase.initializeApp({
-  	apiKey: "AIzaSyAfnkkMgnyVVT2zquB3FvrM33fOyC71hNw",
-    authDomain: "trinitychurchpca-b6bc2.firebaseapp.com",
-    databaseURL: "https://trinitychurchpca-b6bc2.firebaseio.com",
-    projectId: "trinitychurchpca-b6bc2",
-    storageBucket: "trinitychurchpca-b6bc2.appspot.com",
-    messagingSenderId: "485648567340"
+  	// REMOVED API INFO.
 });
 
 // Initialize Cloud Firestore through Firebase
